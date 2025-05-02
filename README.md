@@ -2,7 +2,7 @@
 A dashboard built with Retool to analyze encounter data.
 
 ## Setup
-1. Import `encounter_dashboard_analysis.json` into your Retool organization.
+1. Import `encounter_dashboard_analysis.json` and 'Encounter_Analysis_Workflow.json' into your Retool organization.
 2. Configure any required resources (e.g., database connections, APIs).
 3. Run the app in Retool.
 
