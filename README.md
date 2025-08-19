@@ -10,3 +10,4 @@ A dashboard built with Retool to analyze encounter data.
 - Retool (Free or paid plan)
 - imported_closed_encounters.csv
 - ehr_closed_encounters.csv
+<img width="1278" height="937" alt="Image" src="https://github.com/user-attachments/assets/324c28d3-fe9e-4228-9f84-f138671742a0" />
